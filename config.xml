@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+		xmlns:gap   = "http://phonegap.com/ns/1.0"
+		id          = "com.eaaatup.lemonteas"
+		versionCode = "10" 
+		version     = "1.0" >	
+	<name>檸檬茶餘飯後 by Lemon Tea</name>
+	<description>Lemon Tea, 又名「檸茶」, 從事跟品質有關的工作, 因「職業病」作崇而對食物、生活有少許要求; 因工作需要, 當上半個「空中飛人」, 經常踏足不同國家城市, 品嚐當地美食。
+
+現為:
+- 飲食網站 Openrice 殿堂食家
+- 飲食網站 U Food 推薦博客
+- 旅遊雜誌 新假期 Try-it 達人
+- 生活網站 Salad Blog 星級博客
+- 消閒網站 iLove Hong Kong 特約博客
+
+著作:
+《正在開飯》(2008) － Openrice 十週年紀念書刊嘉賓作者
+《甜魔搵食全攻略》(2012) － 首部公開出版聯合著作</description>
+	<author href="http://eaaatup.com" email="alankwok@yahoo.com">Eaatup.com</author>
+	<preference name="permissions" value="none" />
+	<icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
+	<icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
+	<icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />		
+	<icon src="icons/apple-touch-icon-144-precomposed.png" gap:platform="ios" width="144" height="144" />	
+	<icon src="icons/android-ldpi.png" gap:platform="android" gap:density="ldpi" />
+	<icon src="icons/android-mdpi.png" gap:platform="android" gap:density="mdpi" />
+	<icon src="icons/android-hdpi.png" gap:platform="android" gap:density="hdpi" />
+	<icon src="icons/android-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+	<icon src="icons/winphone-icon.png" gap:platform="winphone" />
+	<icon src="icons/winphone-tileicon.png" gap:platform="winphone" gap:role="background" />	
+	<gap:splash src="icons/ios-splash-320x480.png" gap:platform="ios" width="320" height="480" />
+	<gap:splash src="icons/ios-splash-640x960.png" gap:platform="ios" width="640" height="960" />
+	<gap:splash src="icons/ios-splash-640x1136.png" gap:platform="ios" width="640" height="1136" />
+	<gap:splash src="icons/ios-splash-1024x748.png" gap:platform="ios" width="1024" height="748" />
+	<gap:splash src="icons/ios-splash-768x1004.png" gap:platform="ios" width="768" height="1004" />	
+	<gap:splash src="icons/ios-splash-2048x4796.png" gap:platform="ios" width="2048" height="1496" />
+	<gap:splash src="icons/ios-splash-1536x2008.png" gap:platform="ios" width="1536" height="2008" />
+	<gap:splash src="icons/android-splash-ldpi.jpg" gap:platform="android" gap:density="ldpi" />
+	<gap:splash src="icons/android-splash-mdpi.jpg" gap:platform="android" gap:density="mdpi" />
+	<gap:splash src="icons/android-splash-hdpi.jpg" gap:platform="android" gap:density="hdpi" />
+	<gap:splash src="icons/android-splash-xhdpi.jpg" gap:platform="android" gap:density="xhdpi" />
+	<gap:splash src="icons/winphone-splash.png" gap:platform="winphone" />	
+</widget>
+
+
